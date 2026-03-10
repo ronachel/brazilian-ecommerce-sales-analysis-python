@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Sales Analysis
 
-![Sales Trend](visualizations/sales_trend.png)
+![Geographic Sales Map](visualizations/geographic_sales_map.png.png)
 
 Exploratory data analysis of the Brazilian Olist e-commerce dataset to uncover
 sales trends, customer behavior, and geographic demand patterns.
